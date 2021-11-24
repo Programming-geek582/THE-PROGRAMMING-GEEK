@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @THE-PROGRAMMING-GEEK
+- 👋 Hi, I’m @Heckler
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on web devolpement
+- 💞️ I’m looking to collaborate with swas
 - 📫 How to reach me 
-- htmlgeek752@gmail.com,telegram password crackers group
+- htmlgeek752@gmail.com
